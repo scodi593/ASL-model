@@ -48,10 +48,7 @@ python train_asl_model.py
 ```bash
 python main.py
 ```
-
-## **Future Improvements**  
-- Integrate **pre-trained models (MobileNetV2, ResNet)** for better accuracy.  
-- Deploy as a **web or mobile app** for accessibility.  
-- Implement **LSTM-based recognition** to interpret ASL words and sentences.  
-
 ---
+
+
+
